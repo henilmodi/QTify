@@ -20,6 +20,10 @@ Project Link Vercel
 - **Playback Controls:** Play, pause, skip, and control the volume of the music player.
 - **Responsive Design:** The application is designed to work seamlessly across various devices.
 
+## Screenshot
+
+![Home Page](Home_Page.png)
+
 ## Getting Started
 
 Follow these steps to get a copy of the QTify project up and running on your local machine.
