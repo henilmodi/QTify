@@ -5,16 +5,16 @@ import heroImage from "../../assets/hero.svg";
 
 const Hero = () => {
   return (
-    <div className={styles.hero}>
+    <section className={styles.hero} data-testid="hero-section">
       <div className={styles.textContainer}>
         <h1>100 Thousand Songs, ad-free</h1>
-        <h2>Over thousands podcast episodes</h2>
+        <p>Over thousands podcast episodes</p>
       </div>
 
       <div className={styles.imageContainer}>
         <img src={heroImage} alt="headphones" />
       </div>
-    </div>
+    </section>
   );
 };
 
